@@ -49,7 +49,7 @@ Portfolio de développeur minimaliste utilisant Next.js 14, React, TailwindCSS, 
 2. Déplacer vers le répertoire cloné
 
    ```bash
-   cd portfolio-template
+   cd next-bun-portfolio
    ```
 
 3. Installer les dépendances :
