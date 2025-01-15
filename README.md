@@ -2,7 +2,7 @@
   <a href="https://github.com/karthikmudunuri/eldoraui">
 
 
- <img src="https://github.com/Bunroeun43/next-bun-portfolio/screen.png" alt="Logo" width="60" height="60">
+ <img src="https://github.com/Bunroeun43/next-bun-portfolio/blob/master/public/screen.png" alt="Logo" width="60" height="60">
   </a>
   <h1 align="center">Eldora UI</h1>
   <p align="center">
