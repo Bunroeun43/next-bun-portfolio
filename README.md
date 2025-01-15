@@ -69,5 +69,4 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 # License
 
 Licensed under the [MIT license](https://github.com/karthikmudunuri/portfolio-template/blob/main/LICENSE.md).
-# next-bun-portfolio
-# next-bun-portfolio
+
