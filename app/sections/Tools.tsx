@@ -14,10 +14,9 @@ import {
     SiNodedotjs, SiSymfony, SiLaravel, SiMamp, SiXampp, SiVirtualbox,
     SiUbuntu, SiWindows, SiMacos
 } from "react-icons/si";
-import { FaLinux } from "react-icons/fa6";
+import { FaLinux, FaUniversalAccess } from "react-icons/fa6";
 import { DiResponsive } from "react-icons/di";
 import { TbSql } from "react-icons/tb";
-import uml from "../../public/uml.svg";
 import Image from 'next/image';
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
@@ -52,7 +51,7 @@ const Tools = () => {
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
                                 <SiFigma size={50}/>
-                                <Image src={uml} className="text-white w-full" />
+                                <FaUniversalAccess size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
