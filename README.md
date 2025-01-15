@@ -43,22 +43,22 @@ Portfolio de développeur minimaliste utilisant Next.js 14, React, TailwindCSS, 
 1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/karthikmudunuri/portfolio-template
+   git clone git@github.com:Bunroeun43/next-bun-portfolio.git
    ```
 
-2. Move to the cloned directory
+2. Déplacer vers le répertoire cloné
 
    ```bash
    cd portfolio-template
    ```
 
-3. Install dependencies:
+3. Installer les dépendances :
 
    ```bash
    npm install
    ```
 
-4. Start the local Server:
+4. Démarrer le serveur local :
 
    ```bash
    npm run dev
