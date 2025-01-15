@@ -30,17 +30,17 @@
 
 # Portfolio 
 
-Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer motion
+Portfolio de développeur minimaliste utilisant Next.js 14, React, TailwindCSS, Framer motion
 
 # Features
 
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Eldora UI
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+- Conçu avec Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Eldora UI
+- Responsive pour différents appareils
+- Optimisé pour Next.js et Vercel
 
 # Getting Started Locally
 
-1. Clone this repository to your local machine:
+1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
    git clone https://github.com/karthikmudunuri/portfolio-template
