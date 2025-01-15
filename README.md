@@ -6,8 +6,8 @@
   </a>
   <h1 align="center">Eldora UI</h1>
   <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable.
+   Composants animés open source créés avec React, Typescript, Tailwind CSS et Framer Motion.
+100 % open source et personnalisable.
   </p>
   <p>
     
@@ -68,5 +68,5 @@ Portfolio de développeur minimaliste utilisant Next.js 14, React, TailwindCSS, 
 
 # License
 
-Licensed under the [MIT license](https://github.com/karthikmudunuri/portfolio-template/blob/main/LICENSE.md).
+Sous licence [MIT license](https://github.com/karthikmudunuri/portfolio-template/blob/main/LICENSE.md).
 
